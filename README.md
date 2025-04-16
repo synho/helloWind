@@ -7,7 +7,7 @@
 A stunning, multi-language text animation system with particle effects, smooth transitions, and beautiful visual effects. Perfect for creating eye-catching displays, presentations, or just for fun!
 
 <div align="center">
-  <img src="docs/demo.gif" alt="Animation Demo" width="600"/>
+  <img src="docs/demo.png" alt="Animation Demo" width="800"/>
 </div>
 
 ## ✨ Features
