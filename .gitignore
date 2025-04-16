@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
 build/
 develop-eggs/
 dist/
@@ -21,6 +20,11 @@ wheels/
 .installed.cfg
 *.egg
 
+# Virtual Environment
+venv/
+env/
+ENV/
+
 # IDE
 .idea/
 .vscode/
@@ -30,3 +34,6 @@ wheels/
 # OS
 .DS_Store
 Thumbs.db
+
+# Project specific
+*.json  # Animation save files
